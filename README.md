@@ -1,6 +1,6 @@
-# Android SDK tools installer
+# Android SDK platform-tools install script
 
-Installs platform-tools and adds them to PATH
+Installs platform-tools for Windows and adds them to PATH
 Install path is C:/platform-tools/
 
 ## Requirements
