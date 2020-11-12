@@ -1,7 +1,8 @@
-# Android SDK platform-tools install script
+# Platform-tools install script
 
 Installs platform-tools for Windows and adds them to PATH
-Install path is C:/platform-tools/
+
+Install location is C:/platform-tools/
 
 ## Requirements
 
