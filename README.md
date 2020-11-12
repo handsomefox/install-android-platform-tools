@@ -11,4 +11,4 @@ Install path is C:/platform-tools/
 
 ### How to use
 
-Put an archive called "platform-tools.zip" in the same folder as the script and run install.bat.
+Put an archive called "platform-tools.zip" in the same folder as the install.py script and run install.bat.
