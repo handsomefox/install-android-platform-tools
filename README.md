@@ -6,8 +6,7 @@ Install path is C:/platform-tools/
 ## Requirements
 
 1. Python
-2. pip install elevate // Done in install.bat
-3. [platform-tools.zip](https://dl.google.com/android/repository/platform-tools-latest-windows.zip)
+2. [platform-tools.zip](https://dl.google.com/android/repository/platform-tools-latest-windows.zip)
 
 ### How to use
 
