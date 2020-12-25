@@ -6,9 +6,9 @@ Install location is C:/platform-tools/
 
 ## Requirements
 
-1. Python
-2. [platform-tools.zip](https://dl.google.com/android/repository/platform-tools-latest-windows.zip)
+1. Download [platform-tools.zip](https://dl.google.com/android/repository/platform-tools-latest-windows.zip).
 
 ### How to use
 
-Put an archive called "platform-tools.zip" in the same folder as the install.py script and run install.bat.
+1. Put the archive inside 7za folder.
+2. Run "Install.bat"
