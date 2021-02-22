@@ -6,3 +6,4 @@ cd 7za
 ECHO %PATH% > PATH.TMP
 SETX PATH "%PATH%;%SYSTEMDRIVE%\platform-tools" /m
 pause
+exit
